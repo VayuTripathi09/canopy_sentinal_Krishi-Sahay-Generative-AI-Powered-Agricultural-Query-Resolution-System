@@ -1,7 +1,7 @@
 # 🌾 Canopy Sentinel – Krishi Sahay
 
-### AI-Powered Agricultural Land Intelligence & Farmer Query Resolution System  
-📱 Android Application built using Kotlin
+AI-Powered Agricultural Land Intelligence Android Application  
+📱 Built using Kotlin | 🛰 Powered by NASA Space Data | 🗺 Integrated Geospatial Maps n
 ---
 ## 🚀 Project Overview
 
@@ -101,6 +101,7 @@ Krishi Sahay provides:
 
 ```bash
 git clone https://github.com/VayuTripathi09/canopy_sentinal_Krishi-Sahay-Generative-AI-Powered-Agricultural-Query-Resolution-System.git
+
 
 
 
