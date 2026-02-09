@@ -91,7 +91,7 @@ Krishi Sahay provides:
 2️⃣ App fetches environmental & satellite data  
 3️⃣ AI analyzes fertility & productivity  
 4️⃣ Results shown as maps & scores  
-5️⃣ Farmer can ask questions via AI chat  
+
 
 ---
 
@@ -101,5 +101,6 @@ Krishi Sahay provides:
 
 ```bash
 git clone https://github.com/VayuTripathi09/canopy_sentinal_Krishi-Sahay-Generative-AI-Powered-Agricultural-Query-Resolution-System.git
+
 
 
