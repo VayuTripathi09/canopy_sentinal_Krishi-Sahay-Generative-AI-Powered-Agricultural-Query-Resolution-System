@@ -1,86 +1,105 @@
-# 🌱 Canopy Sentinel – Krishi Sahay
+# 🌾 Canopy Sentinel – Krishi Sahay
 
-**Generative AI-Powered Agricultural Query Resolution & Land Intelligence System**
-
-**Repository:** https://github.com/VayuTripathi09/canopy_sentinal_Krishi-Sahay-Generative-AI-Powered-Agricultural-Query-Resolution-System
-
+### AI-Powered Agricultural Land Intelligence & Farmer Query Resolution System  
+📱 Android Application built using Kotlin
 ---
-
 ## 🚀 Project Overview
 
-Canopy Sentinel is an **AI-driven agricultural support system** that helps farmers make data-backed decisions about:
+Canopy Sentinel – Krishi Sahay is a **smart Android application** designed to help farmers make informed decisions about agricultural land and crop planning using:
 
-✅ Agricultural land fertility and suitability  
-✅ Soil health and moisture evaluation  
+✅ Satellite & environmental data  
+✅ AI-powered fertility analysis  
 ✅ Crop recommendations  
-✅ Surrounding land performance analysis  
-✅ Predictive future productivity  
-✅ Answering agricultural queries using Generative AI  
+✅ Future productivity predictions  
+✅ Generative AI for farmer queries  
 
-This platform merges **satellite geospatial data, machine learning, environmental analytics, and Generative AI** to assist farmers in selecting the best land and farming strategies.
-
----
-
-## 🧠 Key Features
-
-✔ **Land Fertility Mapping** – Satellite and climate data analytics  
-✔ **Crop Recommendation Engine** – Based on soil, weather & historical yield  
-✔ **Future Yield Prediction** – AI models forecasting land productivity  
-✔ **Farmer Query Resolution** – Natural language responses for agriculture questions  
-✔ **Risk Alerts** – Drought, flood, and climate risk prediction  
+The app transforms complex agricultural data into **simple, actionable insights** directly on mobile.
 
 ---
 
-## 📌 Problem Statement
+## 🎯 Problem It Solves
 
-Farmers often lack reliable data when acquiring new agricultural land.
+Farmers often face challenges like:
 
-They struggle to answer questions like:
+❌ Buying low fertility land unknowingly  
+❌ Crop failure due to wrong crop selection  
+❌ No access to scientific land data  
+❌ Climate uncertainty  
 
-❓ *“Is this land fertile?”*  
-❓ *“Which crop will grow best here?”*  
-❓ *“What’s the expected productivity for next season?”*  
-❓ *“How is the surrounding land performing?”*
+### ✔ Our Solution
 
-Canopy Sentinel solves these using **AI, satellite data, and user-friendly insights**.
+Krishi Sahay provides:
 
----
-
-## 🛠 Solution Architecture
-
-The system consists of:
-
-### 🛰 Data Layer
-- Satellite imagery (NDVI, soil moisture)
-- Weather & climate data
-- Historical crop & yield datasets
-
-### 🤖 Core Intelligence
-- Machine learning models for fertility scoring
-- AI models for prediction
-- Generative AI for query responses
-
-### 📊 Application Layer
-- Web/mobile dashboards
-- Maps and visuals
-- Chat interface for farmer support
+🌱 Land fertility score  
+🌧 Soil moisture & climate analysis  
+🌾 Crop suitability suggestions  
+📈 Yield forecasting  
+💬 AI-powered agricultural help chat  
 
 ---
 
-## 📦 Tech Stack
+## 📱 Key Features
 
-| Component | Technology |
-|-----------|------------|
-| Backend API | Python (FastAPI) / Node.js |
-| AI/ML | PyTorch / TensorFlow |
-| Geo Processing | Google Earth Engine / GDAL |
-| Database | PostgreSQL + PostGIS |
-| Frontend | React / Flutter |
-| Cloud | AWS / GCP / Azure |
+- 🗺 Interactive land & fertility maps  
+- 🌿 NDVI-based vegetation analysis  
+- 🌧 Soil moisture & weather tracking  
+- 🤖 AI land productivity prediction  
+- 💬 Generative AI farmer assistant  
+- 🚨 Risk alerts (drought, low fertility zones)  
 
 ---
 
-## 📁 Repository Structure
+## 🛠 Tech Stack
 
+### 📱 Android
+- Kotlin  
+- Android Studio  
+- Material UI  
+
+### 🌐 Backend (if connected)
+- REST APIs  
+- AI/ML models  
+- Satellite data services  
+
+### 🗄 Data
+- Environmental & satellite datasets  
+- Climate & soil information  
+
+---
+
+## 📂 Project Structure
+
+┣ 📂 app
+┃ ┣ 📂 activities
+┃ ┣ 📂 fragments
+┃ ┣ 📂 models
+┃ ┣ 📂 adapters
+┃ ┗ 📂 utils
+┣ 📂 res
+┃ ┣ layouts/
+┃ ┣ values/
+┣ AndroidManifest.xml
+┗ README.md
+
+
+
+---
+
+## ⚙ How the App Works
+
+1️⃣ User selects land location  
+2️⃣ App fetches environmental & satellite data  
+3️⃣ AI analyzes fertility & productivity  
+4️⃣ Results shown as maps & scores  
+5️⃣ Farmer can ask questions via AI chat  
+
+---
+
+## ▶ Getting Started
+
+### Clone the Project
+
+```bash
+git clone https://github.com/VayuTripathi09/canopy_sentinal_Krishi-Sahay-Generative-AI-Powered-Agricultural-Query-Resolution-System.git
 
 
