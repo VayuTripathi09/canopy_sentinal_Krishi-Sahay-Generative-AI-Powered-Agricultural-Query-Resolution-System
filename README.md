@@ -1,0 +1,1 @@
+# canopy_sentinal_Krishi-Sahay-Generative-AI-Powered-Agricultural-Query-Resolution-System
